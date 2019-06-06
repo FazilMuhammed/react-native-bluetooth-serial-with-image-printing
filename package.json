@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Jakub Martyčák",
+    "email": "martycakjakub@gmail.com"
+  },
+  "dependencies": {
+    "buffer": "^4.6.0"
+  },
+  "description": "'Bluetooth serial for react native'",
+  "homepage": "https://github.com/springjphoenix/react-native-bluetooth-serial-with-image-printing#readme",
+  "keywords": [
+    "bluetooth",
+    "react-native",
+    "image printing"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-bluetooth-serial-with-image-printing",
+  "peerDependencies": {
+    "react-native": ">=0.40"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/springjphoenix/react-native-bluetooth-serial-with-image-printing.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0-rc1"
+}
